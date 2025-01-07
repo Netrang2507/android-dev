@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hiltretro</string>
+    <string name="nameks">hiltretro</string>
+    <string name="tags">Tags</string>
+    <string name="names">Names</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="errorMgs">An unexpected error occurred</string>
+
+</resources>
